@@ -6,7 +6,7 @@
 
 ## A modern landing page inspired by the clean documentation experience of Mintlify.
 
-This project focuses on structured layout systems, documentation-style sections, developer-focused UI blocks, and minimal visual noise.
+This project focuses on structured layout systems, documentation-style sections, developer-focused UI blocks, and minimal visual noise using on pure CSS.
 
 ## ✨ Why This Project
 
