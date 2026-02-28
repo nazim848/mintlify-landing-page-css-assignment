@@ -1,6 +1,6 @@
 # 🚀 Mintlify Landing Page Project
 
-🔗 **Live Demo:** <https://nazim848.github.io/mintlify-landing-page-css-assignment//>
+🔗 **Live Demo:** <https://nazim848.github.io/mintlify-landing-page-css-assignment/>
 
 ![Resume Preview](./assets/img/demo-landing-page.png)
 
